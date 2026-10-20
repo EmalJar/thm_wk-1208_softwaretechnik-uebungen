@@ -6,7 +6,7 @@ Wirtschaftsinformatik B.Sc., 7. Semester
 
 ## Meine bisherige Erfahrung mit Softwareentwicklung
 
-- Hochschulmodule PRG, AD, DevOps, kleinere Hobbyprojekte
+- Hochschulmodule PRG, AD, DevOps, kleinere Hobbyprojekte, unter anderem kleines Spiel in Unity programmiert
 
 ## Das erwarte ich von der Veranstaltung
 
