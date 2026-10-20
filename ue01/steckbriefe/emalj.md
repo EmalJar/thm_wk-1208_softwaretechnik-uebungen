@@ -12,3 +12,4 @@ Wirtschaftsinformatik B.Sc., 7. Semester
 
 - Theoretisches und Praktisches Wissen in der Softwaretechnik erweitern
 - Klausur bestehen
+- Lernen, Beschreibungen und Anforderungen richtig zu lesen und zu verstehen.
